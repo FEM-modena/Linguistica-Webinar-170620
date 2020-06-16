@@ -11,13 +11,13 @@ Speriamo che questa diventi un punto di incontro tra tutte le competenze fin qui
 
 ## Le nostre proposte: attività di annotazione con Creender
 
-Creender è un software open source creato da Alessio Palmero Aprosio (Fondazione Bruno Kessler) nell’ambito del progetto **CREEP** (Cyberbulling Effects Prevention) coordinato dalla prof.ssa Sara Tonelli, con lo scopo di identificare e prevenire gli effetti del cyberbullismo sugli adolescenti. Creender nasce quindi come tool di annotazione di contenuti multimodali (in particolare immagini tratte dai social media) per l’analisi dei fenomeni legati alla violenza verbale, ed è stato utilizzato - in via sperimentale - in alcune classi pilota di scuole secondarie di primo e secondo grado della provincia di Trento. 
+Creender è un software open source creato da Alessio Palmero Aprosio (**Fondazione Bruno Kessler**) nell’ambito del progetto **CREEP** (Cyberbulling Effects Prevention) coordinato dalla prof.ssa Sara Tonelli, con lo scopo di identificare e prevenire gli effetti del cyberbullismo sugli adolescenti. Creender nasce quindi come tool di annotazione di contenuti multimodali (in particolare immagini tratte dai social media) per l’analisi dei fenomeni legati alla violenza verbale, ed è stato utilizzato - in via sperimentale - in alcune classi pilota di scuole secondarie di primo e secondo grado della provincia di Trento. 
 L’attività che vi proponiamo in questo webinar si collega dunque al nostro percorso di comprensione del testo dedicato all’identificazione ed emersione delle categorie e delle funzioni che caratterizzano il linguaggio ostile, o **hate speech**. Questa volta però *tradurremo* le attività di annotazione dal testo all’immagine, proponendovi alcune immagini campione prese dal web che verranno etichettate secondo queste cinque categorie:
--Razzismo
--Discriminazione religiosa
--Abilismo
--Omofobia
--Sessismo
+* Razzismo
+* Discriminazione religiosa
+* Abilismo
+* Omofobia
+* Sessismo
 
 Il **metodo** dell’annotazione - e della successiva emersione di fenomeni linguistici e *sociali*- permette di operare un’analisi critica sull’immagine, allo scopo di generare una maggiore consapevolezza nell’uso degli strumenti e delle diverse modalità comunicative (non solo il testo quindi, ma anche le immagini) a nostra disposizione. 
 
