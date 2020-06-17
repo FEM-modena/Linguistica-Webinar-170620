@@ -31,7 +31,7 @@ Vi proponiamo alcune domande e spunti di riflessione, partendo da questo *meme* 
 
 ## Le nostre proposte: attività di annotazione con Creender
 
-Creender è un software open source creato da Alessio Palmero Aprosio (**Fondazione Bruno Kessler**) nell’ambito del progetto **CREEP** (Cyberbulling Effects Prevention) coordinato dalla prof.ssa Sara Tonelli, con lo scopo di identificare e prevenire gli effetti del cyberbullismo sugli adolescenti. Creender nasce quindi come tool di annotazione di contenuti multimodali (in particolare immagini tratte dai social media) per l’analisi dei fenomeni legati alla violenza verbale, ed è stato utilizzato - in via sperimentale - in alcune classi pilota di scuole secondarie di primo e secondo grado della provincia di Trento. 
+Creender è un software open source creato da Alessio Palmero Aprosio (**Fondazione Bruno Kessler**) nell’ambito del progetto <a href="http://creep-project.eu/" target="_blank">**CREEP** (Cyberbulling Effects Prevention)</a> coordinato dalla prof.ssa Sara Tonelli, con lo scopo di identificare e prevenire gli effetti del cyberbullismo sugli adolescenti. Creender nasce quindi come tool di annotazione di contenuti multimodali (in particolare immagini tratte dai social media) per l’analisi dei fenomeni legati alla violenza verbale, ed è stato utilizzato - in via sperimentale - in alcune classi pilota di scuole secondarie di primo e secondo grado della provincia di Trento. 
 
 ### Come funziona Creender?
 Due passaggi, tre domande: annotare hate speech nelle immagini 
@@ -41,3 +41,4 @@ Due passaggi, tre domande: annotare hate speech nelle immagini
 
 #### 2. Che tipo di discriminazione c’è nell’immagine? E quale elemento - o combinazione di elementi - trasmette questa discriminazione?
 ![](creender02.jpg)
+
