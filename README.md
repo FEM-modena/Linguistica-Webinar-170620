@@ -1,4 +1,3 @@
-# Linguistica-Webinar-170620
 <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/js/all.min.js" integrity="sha256-KzZiKy0DWYsnwMF+X1DvQngQ2/FxF7MF3Ff72XcpuPs=" crossorigin="anonymous"></script>
 
 <a href="https://fem.digital" rel="FEM Future Education Modena" target="_blank">![](FEM_Logo.png)</a>
@@ -22,10 +21,10 @@ Vi abbiamo preparato un <a href="https://docs.google.com/document/d/1PCVFKw4e0LT
 
 Vi proponiamo alcune domande e spunti di riflessione, partendo da questo *meme* circolato online e sui social durante il periodo del lockdown: 
 
-<img src="barbie.jpg" width="550" height="350">
+![](barbie.jpg)
 
 
-* Se ritieni che l’immagine contenga un messaggio offensivo, credi che questo sia veicolato da un elemento (**figura**) in particolare all’interno dell’immagine o piuttosto da una combinazione di elementi diversi (**opera**)?
+* Ritieni che l’immagine contenga un messaggio offensivo, credi che questo sia veicolato da un elemento (**figura**) in particolare all’interno dell’immagine o piuttosto da una combinazione di elementi diversi (**opera**)?
 * Prova a riflettere sulle **relazioni intervisuali**: che cosa ti suggerisce la didascalia *before - after*? Sicuramente ti sarà capitato di vedere immagini con una simile dicitura: cosa contenevano? In che modo sono generalmente connotate le immagini riferite al *before*? E quelle riferite all’*after*? 
 
 
@@ -35,6 +34,5 @@ Creender è un software open source creato da Alessio Palmero Aprosio (**Fondazi
 
 ### Come funziona Creender?
 
-![](creender_interfaccia.jfif)
-
-
+![](creender01.jpg)
+![](creender02.jpg)
