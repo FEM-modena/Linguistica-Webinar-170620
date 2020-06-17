@@ -22,7 +22,7 @@ Vi abbiamo preparato un <a href="https://docs.google.com/document/d/1PCVFKw4e0LT
 
 Vi proponiamo alcune domande e spunti di riflessione, partendo da questo *meme* circolato online e sui social durante il periodo del lockdown: 
 
-<img src="barbie.jpg" width="400" height="500">
+<img src="barbie.jpg" width="300" height="400">
 
 
 * Se ritieni che l’immagine contenga un messaggio offensivo, credi che questo sia veicolato da un elemento (**figura**) in particolare all’interno dell’immagine o piuttosto da una combinazione di elementi diversi (**opera**)?
